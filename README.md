@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 # 💫 About Me:
                          
 - 🌱 I'm currently learning JAVA and Its Frameworks
-- 📫 How to reach me at madanmv9@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/madan-m-v/) 
