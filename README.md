@@ -1,12 +1,13 @@
-## Hi there 👋
-
+## Hi 👋, I'm Madan M V
+A passionate developer from India
+- 🌱 I'm currently learning JAVA and Its Frameworks
 <!--
 **madan-m-v/madan-m-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-                          A passionate developer from India<br><br>* I'm currently learning JAVA and Its Frameworks
+                         
 
 
 ## 🌐 Socials:
